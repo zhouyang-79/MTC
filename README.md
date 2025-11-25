@@ -97,9 +97,9 @@ D --> E["Encrypted Main Program<br>Decryption & Execution"]
 - **AES-256-GCM**
   - 主程序解密与完整性验证
 
-- **Watchdog + Kernel Panic**
+- **Watchdog + 驱动层调起系统强行终止**
   - 主程序防调试  
-  - 行为异常触发系统冻结  
+  - 行为异常触发直接销毁数据  
 
 ---
 
