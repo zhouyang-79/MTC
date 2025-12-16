@@ -1,4 +1,4 @@
-# MTC: MTC's Trusted Computing
+# MTC: Multi-Trust-Chain's Trusted Computing
 # 基于融合 TPM、加密狗与 RSA 的多重信任链高安全在线程序分发与执行系统
 
 本项目旨在构建一个适用于高敏感、高风险环境的软件分发与执行体系。  
